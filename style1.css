@@ -1,0 +1,163 @@
+body {
+    background-color: #f5f6f6;
+    
+}
+
+.name {
+    top: 90px; 
+    left: 356px; 
+    width: 480px; 
+    position: absolute;
+    font-size: 30px;
+    font-family: Helvetica;    
+    font-weight: bold;
+    color:black;
+}
+
+.q1 {
+    top: 27px;
+    left: 150px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    border-radius:100px;
+     background-color:black;
+    
+    
+}
+
+
+.qam {
+    z-index:1;
+    top: 43px;
+    left: 175px;
+    font-size: 50px;
+    font-family: ‘Arial’, Gadget, sans-serif;
+    color:white;
+    text-align:center;
+    position: absolute;
+}
+
+@font-face {
+   font-family: Driod; 
+   src: url('DriodSerif.ttf');
+} 
+
+.home {
+    top: 150px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+.contact {
+    top: 190px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+.td {
+    top: 230px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+.adv {
+    top: 270px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+
+.brand {
+    top: 310px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+.book {
+    top: 350px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+.edit {
+    top: 390px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+
+.info {
+    top: 430px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+
+
+.film {
+    top: 470px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+
+
+.photo{
+    top: 510px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
+
+
+
+
+.art {
+    top: 550px;
+    left: 158px;
+    font-size: 13px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+}
