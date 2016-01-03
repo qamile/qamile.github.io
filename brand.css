@@ -1,0 +1,368 @@
+body {
+    background-color: #f5f6f6;
+    
+}
+
+.name {
+    top: 90px; 
+    left: 356px; 
+    width: 480px; 
+    position: absolute;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Helvetica;    
+    font-weight: bold;
+    color:black;
+}
+
+.q1 {
+    top: 27px;
+    left: 150px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    text-decoration: none;
+    border-radius:100px;
+     background-color:black;
+    
+    
+}
+
+
+.qam {
+    z-index:1;
+    top: 43px;
+    left: 175px;
+    font-size: 50px;
+    font-family: ‘Arial’, Gadget, sans-serif;
+    color:white;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+@font-face {
+   font-family: Driod; 
+   src: url('DriodSerif.ttf');
+} 
+
+.home {
+    top: 150px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+.home
+{
+  opacity:1;
+}
+
+.home:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+
+
+.contact {
+    top: 190px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+
+.contact
+{
+  opacity:1;
+}
+
+.contact:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+.td {
+    top: 230px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+.td
+{
+  opacity:1;
+}
+
+.td:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+.adv {
+    top: 270px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+
+.adv
+{
+  opacity:1;
+}
+
+.adv:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+.brand {
+    top: 310px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+.brand
+{
+  opacity:1;
+}
+
+.brand:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+.book {
+    top: 350px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+.book
+{
+  opacity:1;
+}
+
+.book:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+.edit {
+    top: 390px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+
+.edit
+{
+  opacity:1;
+}
+
+.edit:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+.info {
+    top: 430px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+
+.info
+{
+  opacity:1;
+}
+
+.info:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+.film {
+    top: 470px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+
+.film
+{
+  opacity:1;
+}
+
+.film:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+.photo{
+    top: 510px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+
+.photo
+{
+  opacity:1;
+}
+
+.photo:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
+
+
+
+
+.art {
+    top: 550px;
+    left: 158px;
+    font-size: 15px;
+    font-family: "Helvetica Neue";
+    color:#686868;
+    text-align:center;
+    position: absolute;
+    text-decoration: none;
+}
+
+
+.art
+{
+  opacity:1;
+}
+
+.art:hover
+{
+  opacity:0;
+  transition: opacity 1.5s ease-out;
+  -moz-transition: opacity 1.5s ease-out;
+  -webkit-transition: opacity 1.5s ease-out;
+  -o-transition: opacity 1.5s ease-out;
+}
+
