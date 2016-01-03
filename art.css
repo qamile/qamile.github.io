@@ -366,3 +366,190 @@ body {
   -o-transition: opacity 1.5s ease-out;
 }
 
+
+.art1{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.art2{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.art3{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+
+
+.art4{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:380;
+     
+}
+
+.art5{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:500;
+     
+}
+
+
+.art6{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:380;
+     
+}
+
+
+.art7{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:630;
+     
+}
+
+
+
+.art8{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:780;
+     
+}
+
+
+.art9{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:670;
+}
+
+.art10{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1010;
+}
+
+
+.art11{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1070;
+     
+}
+
+
+
+.art12{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:910;
+}
+
+
+.art13{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1240;
+}
+
+
+
+.art14{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1300;
+     
+}
+
+
+
+
+.art15{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:1260;
+}
+
+
+
+
+.art16{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1650;
+}
+
+
+.art18{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1540;
+     
+}
+
+.art17{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:1580;
+}
+
+
+img {
+    max-width:100%;
+  
+}
