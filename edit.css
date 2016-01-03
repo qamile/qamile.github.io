@@ -366,3 +366,151 @@ body {
   -o-transition: opacity 1.5s ease-out;
 }
 
+
+
+
+.edit1{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.edit2{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.edit3{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+
+
+.edit4{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:580;
+     
+}
+
+.edit5{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:580;
+     
+}
+
+
+.edit6{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:580;
+     
+}
+
+
+.edit7{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1020;
+     
+}
+
+
+
+.edit8{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1020;
+     
+}
+
+
+.edit9{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:960;
+}
+
+.edit10{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1400;
+}
+
+
+.edit11{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1400;
+     
+}
+
+
+
+.edit12{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:1350;
+}
+
+.edit13{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1780;
+}
+
+.edit14{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:1680;
+     
+}
+
+
+
+
+img {
+    max-width:100%;
+  
+}

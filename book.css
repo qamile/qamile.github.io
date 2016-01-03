@@ -366,3 +366,110 @@ body {
   -o-transition: opacity 1.5s ease-out;
 }
 
+
+
+.book1{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.book2{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.book3{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+
+
+.book4{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:480;
+     
+}
+
+.book5{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:350;
+     
+}
+
+
+.book6{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:360;
+     
+}
+
+
+.book7{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:700;
+     
+}
+
+
+
+.book8{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:580;
+     
+}
+
+
+.book9{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:760;
+}
+
+.book10{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:820;
+}
+
+img {
+    max-width:100%;
+  
+}
