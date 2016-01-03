@@ -65,7 +65,7 @@ body {
 
 .home:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -97,7 +97,7 @@ body {
 
 .contact:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -125,7 +125,7 @@ body {
 
 .td:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -155,7 +155,7 @@ body {
 
 .adv:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -183,7 +183,7 @@ body {
 
 .brand:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -212,7 +212,7 @@ body {
 
 .book:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -242,7 +242,7 @@ body {
 
 .edit:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -271,7 +271,7 @@ body {
 
 .info:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -301,7 +301,7 @@ body {
 
 .film:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -329,7 +329,7 @@ body {
 
 .photo:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -359,7 +359,7 @@ body {
 
 .art:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -367,399 +367,16 @@ body {
 }
 
 
-.selfie{
-    max-width:240px; /* you can use % */
-    height: auto;
-    left: 357px;
-    position:absolute;
-    top:140;
-    transition: all 1s ease-in-out
-}
-
-.selfie:hover { transform: scale(1.5); }
-
-
-
-img {
-    max-width:100%;
-}
-
-.name2 {
-    top: 422px; 
-    left: 356px; 
-    width: 480px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Helvetica;    
-    font-weight: bold;
-    color:black;
-}
-
-.cv {
-  
-    top: 448px; 
-    left: 356px; 
-    width: 158px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 14px;
-    font-family: Helvetica;    
-    color:black;
-    line-height: 150%;
-}
-
-.con{
-    top: 520px; 
-    left: 356px; 
-    width: 480px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Helvetica;    
-    font-weight: bold;
-    color:black;   
+.myinfo {  
     
-}
-
-
-.fb {
-    position:absolute;
-    top:600;
-    left: 350px; 
-    height:20px;
-}
-
-.fb:hover
-{
-  opacity:0;
-  transition: opacity 1.5s ease-out;
-  -moz-transition: opacity 1.5s ease-out;
-  -webkit-transition: opacity 1.5s ease-out;
-  -o-transition: opacity 1.5s ease-out;
-}
-
-
-
-
-.twit {
-    position:absolute;
-    top:600;
-    left: 380px; 
-    height:20px;
-}
-
-.twit:hover
-{
-  opacity:0;
-  transition: opacity 1.5s ease-out;
-  -moz-transition: opacity 1.5s ease-out;
-  -webkit-transition: opacity 1.5s ease-out;
-  -o-transition: opacity 1.5s ease-out;
-}
-
-
-.insta {
-    position:absolute;
-    top:600;
-    left: 410px; 
-    height:20px;
-}
-
-.insta:hover
-{
-  opacity:0;
-  transition: opacity 1.5s ease-out;
-  -moz-transition: opacity 1.5s ease-out;
-  -webkit-transition: opacity 1.5s ease-out;
-  -o-transition: opacity 1.5s ease-out;
-}
-
-
-
-
-
-
-
-
-
-.contact2{
-    
-    top: 545px; 
+    top: 150px; 
     left: 356px; 
-    width: 158px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 14px;
-    font-family: Helvetica;    
-    color:black;
-    line-height: 150%;
-}
-
-.edu {
-    top: 140px; 
-    left: 628px; 
     width: 480px; 
     position: absolute;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
     font-family: Helvetica;    
     font-weight: bold;
     color:black;
-}
-  
-.parsons {
-    top: 160px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;    
-    color:black;
-        line-height: 150%;
-}
-  
-.parsons2 {
-    top: 195px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;    
-    color:black;
-        line-height: 150%;
-}
-  
-.parsons3 {
-    top: 212px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;    
-    color:black;
-        line-height: 150%;
-}
-  
-.parsons4 {
-    top: 248px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;
-}
-  
-.add {
-    top: 280px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;
-}
-
-.add2 {
-    top: 315px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;
-  
-}
-
-
-.add3 {
-    top: 332px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;
-  
-}
-
-.add4 {
-    top: 350px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;
-  
-}
-
-.employ{
-    top: 400px; 
-    left: 628px; 
-    width: 480px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Helvetica;    
-    font-weight: bold;
-    color:black;
-  
-}
-
-.employ2 {
-    top: 425px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-
-.employ3 {
-    top: 460px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-
-
-
-.employ4 {
-    top: 478px; 
-    left: 628px; 
-    width: 280px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-
-.danis {
-    top: 530px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-.danis1 {
-    top: 565px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-.danis2 {
-    top: 582px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-
-.awards{
-    top: 630px; 
-    left: 628px; 
-    width: 480px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Helvetica;    
-    font-weight: bold;
-    color:black;
-  
-}
-
-
-.award1{
-    top: 650px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-.award2{
-    top: 685px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
-}
-
-
-
-.skills{
-    top: 760px; 
-    left: 628px; 
-    width: 480px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: Helvetica;    
-    font-weight: bold;
-    color:black;
-  
-}
-
-.skill1{
-    top: 780px; 
-    left: 628px; 
-    width: 245px; 
-    position: absolute;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: Helvetica;
-    color:black;
-    line-height: 150%;  
+    opacity: 0.7;
 }

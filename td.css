@@ -65,8 +65,8 @@ body {
 
 .home:hover
 {
-  opacity:0;
-  transition: opacity 1.5s ease-out;
+  opacity:0.2;
+  transition: opacity 1.0s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
   -o-transition: opacity 1.5s ease-out;
@@ -97,7 +97,7 @@ body {
 
 .contact:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -125,7 +125,7 @@ body {
 
 .td:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -155,7 +155,7 @@ body {
 
 .adv:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -183,7 +183,7 @@ body {
 
 .brand:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -212,7 +212,7 @@ body {
 
 .book:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -242,7 +242,7 @@ body {
 
 .edit:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -271,7 +271,7 @@ body {
 
 .info:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -301,7 +301,7 @@ body {
 
 .film:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -329,7 +329,7 @@ body {
 
 .photo:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
@@ -359,10 +359,75 @@ body {
 
 .art:hover
 {
-  opacity:0;
+  opacity:0.2;
   transition: opacity 1.5s ease-out;
   -moz-transition: opacity 1.5s ease-out;
   -webkit-transition: opacity 1.5s ease-out;
   -o-transition: opacity 1.5s ease-out;
 }
+
+
+
+.td1{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:140;
+    transition: all 1s ease-in-out
+}
+
+.td1:hover { transform: scale(1.2); }
+
+
+
+
+.td2{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:140;
+    transition: all 1s ease-in-out
+}
+
+.td2:hover { transform: scale(1.2); }
+
+
+
+
+.td3{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:140;
+    transition: all 1s ease-in-out
+}
+
+.td3:hover { transform: scale(1.2); }
+
+
+
+
+
+.td4{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:410;
+    transition: all 1s ease-in-out
+}
+
+.td4:hover { transform: scale(1.2); }
+
+
+
+
+
+img {
+    max-width:100%;
+}
+
 
