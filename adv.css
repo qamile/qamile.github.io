@@ -375,7 +375,7 @@ body {
     left: 357px;
     position:absolute;
     top:140;
-    transition: all 1s ease-in-out
+     
 }
 
 
@@ -386,7 +386,7 @@ body {
     left: 640px;
     position:absolute;
     top:140;
-    transition: all 1s ease-in-out
+     
 }
 
 
@@ -397,7 +397,7 @@ body {
     left: 930px;
     position:absolute;
     top:140;
-    transition: all 1s ease-in-out
+     
 }
 
 
@@ -410,9 +410,67 @@ body {
     left: 357px;
     position:absolute;
     top:560;
-    transition: all 1s ease-in-out
+     
 }
 
+.adv5{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:350;
+     
+}
+
+
+.adv6{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:550;
+     
+}
+
+
+.adv7{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:850;
+     
+}
+
+
+
+.adv8{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:750;
+     
+}
+
+
+.adv9{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:980;
+     
+}
+
+.adv10{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1060;
+     
+}
 
 
 
