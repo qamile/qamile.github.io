@@ -457,10 +457,9 @@ body {
 .adv9{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 930px;
+    left: 640px;
     position:absolute;
-    top:980;
-     
+    top:850;
 }
 
 .adv10{
@@ -469,11 +468,10 @@ body {
     left: 357px;
     position:absolute;
     top:1060;
-     
 }
-
 
 
 img {
     max-width:100%;
+  
 }

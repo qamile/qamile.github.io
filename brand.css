@@ -366,3 +366,111 @@ body {
   -o-transition: opacity 1.5s ease-out;
 }
 
+
+.brand1{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.brand2{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+.brand3{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:140;
+     
+}
+
+
+
+
+
+.brand4{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:460;
+     
+}
+
+.brand5{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:380;
+     
+}
+
+
+.brand6{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:400;
+     
+}
+
+
+.brand7{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:830;
+     
+}
+
+
+
+.brand8{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 640px;
+    position:absolute;
+    top:800;
+     
+}
+
+
+.brand9{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 930px;
+    position:absolute;
+    top:770;
+}
+
+.brand10{
+    max-width:240px; /* you can use % */
+    height: auto;
+    left: 357px;
+    position:absolute;
+    top:1200;
+}
+
+
+
+img {
+    max-width:100%;
+  
+}
