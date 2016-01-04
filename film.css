@@ -753,7 +753,7 @@ body {
 .film2{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 640px;
+    left: 790px;
     position:absolute;
     top:140;
      
@@ -764,9 +764,9 @@ body {
 .film3{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 930px;
+    left: 357px;
     position:absolute;
-    top:140;
+    top:420;
      
 }
 
@@ -777,18 +777,18 @@ body {
 .film4{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 357px;
+    left: 790px;
     position:absolute;
-    top:580;
+    top:420;
      
 }
 
 .film5{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 640px;
+    left: 357px;
     position:absolute;
-    top:580;
+    top:700;
      
 }
 
@@ -796,9 +796,9 @@ body {
 .film6{
     max-width:240px; /* you can use % */
     height: auto;
-    left: 930px;
+    left: 790px;
     position:absolute;
-    top:580;
+    top:700;
      
 }
 
@@ -808,7 +808,7 @@ body {
     height: auto;
     left: 357px;
     position:absolute;
-    top:1020;
+    top:990;
      
 }
 
